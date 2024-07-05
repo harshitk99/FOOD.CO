@@ -2,7 +2,10 @@
     font-family: "silk serif";
     src: url(./Fonts/silkserif-lightitalic-webfont.ttf);
 }
-
+@font-face{
+    font-family: "Kanit";
+    src: url(Fonts/Kanit-Regular.ttf);
+}
 *{
     margin: 0;
     padding: 0;
